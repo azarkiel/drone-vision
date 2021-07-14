@@ -298,15 +298,19 @@ if __name__ == '__main__':
     posenet = PoseNet(model_path)
 
     # read image and prepare input to shape (1, height, width, 3)
-    img = cv2.imread('person.jpg')
+    # img = cv2.imread('person.jpg')
+    cap = cv2.VideoCapture(0) 
+    while True:        
+        success, img = cap.read()   # read webcam capture
 
-    # apply model
-    keypoints = posenet.predict_singlepose(img)
-    # draw keypoints on original image
-    draw_keypoints(img, keypoints)
-    draw_pose(img, keypoints)
-    detect_pose(keypoints)
+        # apply model
+        keypoints = posenet.predict_singlepose(img)
+        # draw keypoints on original image
+        draw_keypoints(img, keypoints)
+        draw_pose(img, keypoints)
+        poses = detect_pose(keypoints)
 
-    cv2.imshow('posenet', img)
-    cv2.waitKey(0)
+        cv2.imshow('posenet', img)
+        if cv2.waitKey(1) & 0xFF == ord('q'):   # terminate window when press q
+            break
     cv2.destroyAllWindows()

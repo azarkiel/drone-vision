@@ -22,10 +22,10 @@ CENTER_Y = CAMERA_RESOLUTION_HEIGHT//2
 # ---------
 while True:
     success, img = cap.read()   # read webcam capture
-
+	
     # get keypoints for single pose estimation. it is a list of 17 keypoints
     keypoints = posenet.predict_singlepose(img)
-
+	
     # track nose
     nose_pos = keypoints[0]['position']
     nose_x = nose_pos[0] - CENTER_X
@@ -42,7 +42,7 @@ while True:
     detected_poses = ' '.join(detected_poses) if detected_poses else 'None'
     
     cv2.putText(img, f'{detected_poses} detected', (0,300), cv2.FONT_HERSHEY_SIMPLEX, 1, (255,255,255), 2)
-
+	
     cv2.imshow("pose", img)                 # show the image with keypoints
     if cv2.waitKey(1) & 0xFF == ord('q'):   # terminate window when press q
         break

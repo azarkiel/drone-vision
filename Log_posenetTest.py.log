@@ -1,0 +1,504 @@
+2021-06-29 11:23:15,677:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S1_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S1_seq1_video_8.mp4
+FPS_AVG= 35.8
+FPS_MAX= 76.9
+FPS_MIN= 0.6
+MEM_AVG= 2624.4MB
+MEM_MAX= 2625.5MB
+MEM_MIN= 2615.3MB
+CPU_AVG= 13.1%
+CPU_MAX= 104.2%
+CPU_MIN= 0.6%
+
+2021-06-29 11:40:11,731:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S1_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S1_seq2_video_8.mp4
+FPS_AVG= 34.0
+FPS_MAX= 77.0
+FPS_MIN= 15.8
+MEM_AVG= 2627.3MB
+MEM_MAX= 2628.7MB
+MEM_MIN= 2618.7MB
+CPU_AVG= 13.9%
+CPU_MAX= 104.2%
+CPU_MIN= 2.8%
+
+2021-06-29 11:43:40,469:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S2_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S2_seq1_video_8.mp4
+FPS_AVG= 35.0
+FPS_MAX= 82.2
+FPS_MIN= 8.2
+MEM_AVG= 2624.5MB
+MEM_MAX= 2625.2MB
+MEM_MIN= 2618.1MB
+CPU_AVG= 14.0%
+CPU_MAX= 104.2%
+CPU_MIN= 2.1%
+
+2021-06-29 11:46:46,117:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S2_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S2_seq2_video_8.mp4
+FPS_AVG= 37.6
+FPS_MAX= 76.7
+FPS_MIN= 17.6
+MEM_AVG= 2624.0MB
+MEM_MAX= 2625.7MB
+MEM_MIN= 2614.8MB
+CPU_AVG= 14.0%
+CPU_MAX= 97.7%
+CPU_MIN= 2.1%
+
+2021-06-29 11:53:09,243:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S3_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S3_seq1_video_8.mp4
+FPS_AVG= 36.2
+FPS_MAX= 79.2
+FPS_MIN= 4.6
+MEM_AVG= 2624.7MB
+MEM_MAX= 2626.8MB
+MEM_MIN= 2615.5MB
+CPU_AVG= 14.2%
+CPU_MAX= 104.2%
+CPU_MIN= 1.0%
+
+2021-06-29 11:59:23,658:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S3_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S3_seq2_video_8.mp4
+FPS_AVG= 35.9
+FPS_MAX= 83.3
+FPS_MIN= 6.1
+MEM_AVG= 2598.4MB
+MEM_MAX= 2627.6MB
+MEM_MIN= 2585.1MB
+CPU_AVG= 13.4%
+CPU_MAX= 97.7%
+CPU_MIN= 0.8%
+
+2021-06-29 12:02:27,866:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S4_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S4_seq1_video_8.mp4
+FPS_AVG= 37.3
+FPS_MAX= 82.7
+FPS_MIN= 16.8
+MEM_AVG= 2626.0MB
+MEM_MAX= 2626.4MB
+MEM_MIN= 2618.7MB
+CPU_AVG= 14.0%
+CPU_MAX= 97.7%
+CPU_MIN= 2.8%
+
+2021-06-29 12:05:52,833:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S4_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S4_seq2_video_8.mp4
+FPS_AVG= 36.4
+FPS_MAX= 83.3
+FPS_MIN= 17.3
+MEM_AVG= 2623.6MB
+MEM_MAX= 2624.2MB
+MEM_MIN= 2614.4MB
+CPU_AVG= 13.8%
+CPU_MAX= 104.2%
+CPU_MIN= 2.8%
+
+2021-06-29 12:12:59,783:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S5_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S5_seq1_video_8.mp4
+FPS_AVG= 30.9
+FPS_MAX= 35.8
+FPS_MIN= 17.2
+MEM_AVG= 2623.8MB
+MEM_MAX= 2624.4MB
+MEM_MIN= 2614.3MB
+CPU_AVG= 12.6%
+CPU_MAX= 54.6%
+CPU_MIN= 4.1%
+
+2021-06-29 12:19:39,915:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S5_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S5_seq2_video_8.mp4
+FPS_AVG= 31.7
+FPS_MAX= 37.1
+FPS_MIN= 18.6
+MEM_AVG= 2624.2MB
+MEM_MAX= 2625.3MB
+MEM_MIN= 2617.2MB
+CPU_AVG= 12.7%
+CPU_MAX= 54.6%
+CPU_MIN= 4.1%
+
+2021-06-29 12:23:03,174:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S6_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S6_seq1_video_8.mp4
+FPS_AVG= 32.0
+FPS_MAX= 37.1
+FPS_MIN= 19.9
+MEM_AVG= 2627.4MB
+MEM_MAX= 2628.4MB
+MEM_MIN= 2618.1MB
+CPU_AVG= 12.4%
+CPU_MAX= 54.6%
+CPU_MIN= 4.1%
+
+2021-06-29 12:26:30,790:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S6_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S6_seq2_video_8.mp4
+FPS_AVG= 31.1
+FPS_MAX= 37.1
+FPS_MIN= 20.4
+MEM_AVG= 2626.6MB
+MEM_MAX= 2627.6MB
+MEM_MIN= 2618.5MB
+CPU_AVG= 12.9%
+CPU_MAX= 54.6%
+CPU_MIN= 4.1%
+
+2021-06-29 12:29:58,431:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S7_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S7_seq1_video_8.mp4
+FPS_AVG= 32.2
+FPS_MAX= 71.1
+FPS_MIN= 6.6
+MEM_AVG= 2625.1MB
+MEM_MAX= 2626.0MB
+MEM_MIN= 2617.0MB
+CPU_AVG= 12.9%
+CPU_MAX= 104.2%
+CPU_MIN= 2.1%
+
+2021-06-29 12:33:14,059:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S7_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S7_seq2_video_8.mp4
+FPS_AVG= 35.7
+FPS_MAX= 76.8
+FPS_MIN= 6.7
+MEM_AVG= 2624.9MB
+MEM_MAX= 2625.4MB
+MEM_MIN= 2616.3MB
+CPU_AVG= 13.6%
+CPU_MAX= 97.7%
+CPU_MIN= 1.0%
+
+2021-06-29 12:36:58,369:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S8_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S8_seq1_video_8.mp4
+FPS_AVG= 34.1
+FPS_MAX= 82.4
+FPS_MIN= 6.9
+MEM_AVG= 2626.0MB
+MEM_MAX= 2628.6MB
+MEM_MIN= 2619.1MB
+CPU_AVG= 13.1%
+CPU_MAX= 104.2%
+CPU_MIN= 1.2%
+
+2021-06-29 12:40:14,212:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S8_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S8_seq2_video_8.mp4
+FPS_AVG= 35.5
+FPS_MAX= 79.5
+FPS_MIN= 0.6
+MEM_AVG= 2625.6MB
+MEM_MAX= 2640.1MB
+MEM_MIN= 2615.8MB
+CPU_AVG= 13.6%
+CPU_MAX= 104.2%
+CPU_MIN= 2.8%
+
+2021-06-29 12:44:27,397:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S9_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S9_seq1_video_8.mp4
+FPS_AVG= 26.3
+FPS_MAX= 47.9
+FPS_MIN= 2.5
+MEM_AVG= 2642.9MB
+MEM_MAX= 2643.5MB
+MEM_MIN= 2631.7MB
+CPU_AVG= 15.2%
+CPU_MAX= 97.7%
+CPU_MIN= 2.2%
+
+2021-06-29 12:46:57,080:INFO:
+ARGS=posenetTest.py --printmetrics --inputfile=D:/00_TFM_dataset/S9_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S9_seq2_video_8.mp4
+FPS_AVG= 26.7
+FPS_MAX= 48.5
+FPS_MIN= 12.4
+MEM_AVG= 2644.6MB
+MEM_MAX= 2645.5MB
+MEM_MIN= 2634.5MB
+CPU_AVG= 15.1%
+CPU_MAX= 97.7%
+CPU_MIN= 2.1%
+
+2021-06-29 13:37:50,033:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S1_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S1_seq1_video_8.mp4
+FPS_AVG= 27.5
+FPS_MAX= 69.3
+FPS_MIN= 13.5
+MEM_AVG= 2620.0MB
+MEM_MAX= 2620.8MB
+MEM_MIN= 2613.2MB
+CPU_AVG= 9.8%
+CPU_MAX= 54.6%
+CPU_MIN= 2.1%
+
+2021-06-29 13:47:26,103:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S1_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S1_seq2_video_8.mp4
+FPS_AVG= 23.2
+FPS_MAX= 70.9
+FPS_MIN= 0.6
+MEM_AVG= 2622.1MB
+MEM_MAX= 2622.6MB
+MEM_MIN= 2614.4MB
+CPU_AVG= 7.2%
+CPU_MAX= 54.6%
+CPU_MIN= 1.7%
+
+2021-06-29 13:52:50,465:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S2_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S2_seq1_video_8.mp4
+FPS_AVG= 22.0
+FPS_MAX= 55.0
+FPS_MIN= 9.7
+MEM_AVG= 2618.8MB
+MEM_MAX= 2619.7MB
+MEM_MIN= 2612.1MB
+CPU_AVG= 7.2%
+CPU_MAX= 54.6%
+CPU_MIN= 2.1%
+
+2021-06-29 13:58:05,833:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S2_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S2_seq2_video_8.mp4
+FPS_AVG= 20.9
+FPS_MAX= 49.8
+FPS_MIN= 7.8
+MEM_AVG= 2620.6MB
+MEM_MAX= 2621.4MB
+MEM_MIN= 2612.3MB
+CPU_AVG= 8.2%
+CPU_MAX= 46.2%
+CPU_MIN= 1.4%
+
+2021-06-29 14:08:35,746:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S3_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S3_seq1_video_8.mp4
+FPS_AVG= 20.7
+FPS_MAX= 41.4
+FPS_MIN= 10.2
+MEM_AVG= 2621.3MB
+MEM_MAX= 2622.7MB
+MEM_MIN= 2613.0MB
+CPU_AVG= 8.7%
+CPU_MAX= 54.6%
+CPU_MIN= 1.7%
+
+2021-06-29 14:18:48,133:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S3_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S3_seq2_video_8.mp4
+FPS_AVG= 20.8
+FPS_MAX= 44.3
+FPS_MIN= 6.8
+MEM_AVG= 2619.5MB
+MEM_MAX= 2620.3MB
+MEM_MIN= 2610.7MB
+CPU_AVG= 9.2%
+CPU_MAX= 50.4%
+CPU_MIN= 1.7%
+
+2021-06-29 14:24:08,250:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S4_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S4_seq1_video_8.mp4
+FPS_AVG= 20.6
+FPS_MAX= 48.7
+FPS_MIN= 6.1
+MEM_AVG= 2620.6MB
+MEM_MAX= 2621.4MB
+MEM_MIN= 2614.0MB
+CPU_AVG= 9.4%
+CPU_MAX= 54.6%
+CPU_MIN= 2.1%
+
+2021-06-29 14:29:31,400:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S4_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S4_seq2_video_8.mp4
+FPS_AVG= 21.9
+FPS_MAX= 58.2
+FPS_MIN= 6.3
+MEM_AVG= 2590.6MB
+MEM_MAX= 2620.8MB
+MEM_MIN= 2577.3MB
+CPU_AVG= 8.7%
+CPU_MAX= 54.6%
+CPU_MIN= 2.1%
+
+2021-06-29 14:39:46,416:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S5_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S5_seq1_video_8.mp4
+FPS_AVG= 21.7
+FPS_MAX= 50.9
+FPS_MIN= 3.7
+MEM_AVG= 2625.5MB
+MEM_MAX= 2626.5MB
+MEM_MIN= 2615.9MB
+CPU_AVG= 8.8%
+CPU_MAX= 54.6%
+CPU_MIN= 0.9%
+
+2021-06-29 14:49:18,204:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S5_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S5_seq2_video_8.mp4
+FPS_AVG= 22.7
+FPS_MAX= 55.7
+FPS_MIN= 12.2
+MEM_AVG= 2599.3MB
+MEM_MAX= 2622.9MB
+MEM_MIN= 2581.1MB
+CPU_AVG= 7.1%
+CPU_MAX= 54.6%
+CPU_MIN= 2.1%
+
+2021-06-29 14:54:17,104:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S6_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S6_seq1_video_8.mp4
+FPS_AVG= 22.1
+FPS_MAX= 55.3
+FPS_MIN= 11.3
+MEM_AVG= 2622.2MB
+MEM_MAX= 2623.1MB
+MEM_MIN= 2613.4MB
+CPU_AVG= 6.5%
+CPU_MAX= 55.4%
+CPU_MIN= 2.1%
+
+2021-06-29 14:59:09,918:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S6_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S6_seq2_video_8.mp4
+FPS_AVG= 22.5
+FPS_MAX= 54.9
+FPS_MIN= 13.1
+MEM_AVG= 2620.7MB
+MEM_MAX= 2622.3MB
+MEM_MIN= 2581.1MB
+CPU_AVG= 6.1%
+CPU_MAX= 50.4%
+CPU_MIN= 2.1%
+
+2021-06-29 15:04:05,577:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S7_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S7_seq1_video_8.mp4
+FPS_AVG= 22.8
+FPS_MAX= 62.0
+FPS_MIN= 12.7
+MEM_AVG= 2623.4MB
+MEM_MAX= 2624.0MB
+MEM_MIN= 2616.0MB
+CPU_AVG= 6.1%
+CPU_MAX= 52.9%
+CPU_MIN= 2.1%
+
+2021-06-29 15:08:34,517:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S7_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S7_seq2_video_8.mp4
+FPS_AVG= 25.7
+FPS_MAX= 72.2
+FPS_MIN= 11.5
+MEM_AVG= 2620.9MB
+MEM_MAX= 2621.2MB
+MEM_MIN= 2613.9MB
+CPU_AVG= 8.4%
+CPU_MAX= 54.6%
+CPU_MIN= 2.1%
+
+2021-06-29 15:12:13,609:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S8_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S8_seq1_video_8.mp4
+FPS_AVG= 31.2
+FPS_MAX= 66.2
+FPS_MIN= 16.9
+MEM_AVG= 2621.8MB
+MEM_MAX= 2622.6MB
+MEM_MIN= 2613.6MB
+CPU_AVG= 8.0%
+CPU_MAX= 54.6%
+CPU_MIN= 2.8%
+
+2021-06-29 15:15:42,457:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S8_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S8_seq2_video_8.mp4
+FPS_AVG= 30.9
+FPS_MAX= 69.7
+FPS_MIN= 15.6
+MEM_AVG= 2620.3MB
+MEM_MAX= 2621.1MB
+MEM_MIN= 2612.4MB
+CPU_AVG= 6.7%
+CPU_MAX= 54.6%
+CPU_MIN= 2.1%
+
+2021-06-29 15:20:49,922:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S9_seq1_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S9_seq1_video_8.mp4
+FPS_AVG= 20.9
+FPS_MAX= 41.0
+FPS_MIN= 4.6
+MEM_AVG= 2636.4MB
+MEM_MAX= 2636.8MB
+MEM_MIN= 2628.5MB
+CPU_AVG= 11.0%
+CPU_MAX= 65.1%
+CPU_MIN= 1.2%
+
+2021-06-29 15:23:55,119:INFO:
+ARGS=posenetTest.py --noview --inputfile=D:/00_TFM_dataset/S9_seq2_video_8.mp4
+PROGRAM= posenetTest.py
+FILENAME= D:/00_TFM_dataset/S9_seq2_video_8.mp4
+FPS_AVG= 20.9
+FPS_MAX= 34.6
+FPS_MIN= 5.3
+MEM_AVG= 2637.3MB
+MEM_MAX= 2637.8MB
+MEM_MIN= 2629.2MB
+CPU_AVG= 10.7%
+CPU_MAX= 63.7%
+CPU_MIN= 0.8%
+
